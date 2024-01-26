@@ -1,0 +1,6 @@
+img{
+    object-fit: cover;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 2/3;
+}

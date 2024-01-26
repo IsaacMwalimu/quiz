@@ -1,0 +1,6 @@
+img{
+    object-fit: contain;
+    width: 40%;
+    height: 40%;
+    object-position: center;
+}
